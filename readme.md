@@ -2,7 +2,7 @@
 
 📍 **Paris ↔ France** | ⌨️ **Développeur Fullstack**
 
-Développeur fullstack TypeScript, mes projets personnels sont visibles sur [samuelprigent.com](https://www.samuelprigent.com). Expérience dans le secteur médico-social sur des problématiques de sécurité (RGPD, ISO 27001). Actuellement chez Groupe Cola, je développe des extranets d'automatisation des ouvertures de compte avec signature électronique et OCR pour les 4 sociétés du groupe.
+Développeur fullstack TypeScript chez **Groupe Cola**, je conçois et développe un extranet multi-tenant d'ouverture de compte dématérialisée pour les 4 sociétés du groupe. Le projet couvre la signature électronique, l'OCR, la gestion documentaire et un système RBAC à 6 rôles — le tout construit avec React, Next.js, Express, DocuSeal, Resend, Cloudinary et OCR Space.
 
 ---
 
@@ -21,16 +21,8 @@ Développeur fullstack TypeScript, mes projets personnels sont visibles sur [sam
 
 ---
 
-### Projets
-
-- 🎬 **[Poplist](https://poplist.me)** - Créez, partagez et explorez des listes de films et séries entre amis
-- 🔐 **[pass-strength-indicator](https://pass-strength-indicator.vercel.app/)** - Module npm (React + Tailwind) d'indicateur de robustesse de mot de passe
-- 🌐 **[Portfolio](https://www.samuelprigent.com)** - Portfolio personnel avec projets et réalisations
-
----
-
 ### Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-prigent/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@samuelprigent.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:s.prigent@cola-groupe.fr)
 [![Portfolio](https://img.shields.io/badge/-samuelprigent.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.samuelprigent.com)
