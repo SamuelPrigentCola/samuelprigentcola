@@ -2,27 +2,22 @@
 
 📍 **Paris ↔ France** | ⌨️ **Développeur Fullstack**
 
-Développeur fullstack TypeScript chez **Groupe Cola**, je conçois et développe un extranet multi-tenant d'ouverture de compte dématérialisée pour les 4 sociétés du groupe. Le projet couvre la signature électronique, l'OCR, la gestion documentaire et un système RBAC à 6 rôles — le tout construit avec React, Next.js, Express, DocuSeal, Resend, Cloudinary et OCR Space.
-
----
+Développeur fullstack TypeScript, je conçois des architectures web qui connectent ERP, intranets et extranets pour automatiser les flux métiers à l'échelle d'un groupe. Expérience préalable en sécurité applicative dans le médico-social (RGPD, ISO 27001). Projets personnels sur [samuelprigent.com](https://www.samuelprigent.com).
 
 ### Technologies
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> &nbsp;
-<img src="https://cdn.simpleicons.org/hono/E36002" alt="hono" width="40" height="40"/> &nbsp;
-<img src="https://cdn.simpleicons.org/prisma/2D3748" alt="prisma" width="40" height="40"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
-
----
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&labelColor=000000&logo=typescript&logoColor=white&logoWidth=12)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&labelColor=000000&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&labelColor=000000&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&labelColor=000000&logo=tailwindcss&logoColor=06B6D4)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&labelColor=000000&logo=nodedotjs&logoColor=7FFF00)
+![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat-square&labelColor=000000&logo=hono&logoColor=FF7A00)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&labelColor=000000&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336792?style=flat-square&labelColor=000000&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=000000&logo=git&logoColor=FF4A30)
 
 ### Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-prigent/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:s.prigent@cola-groupe.fr)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@samuelprigent.com)
 [![Portfolio](https://img.shields.io/badge/-samuelprigent.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.samuelprigent.com)
